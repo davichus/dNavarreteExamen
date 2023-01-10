@@ -10,7 +10,7 @@ namespace dNavarreteExamen
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new NavigationPage(new Vistas.Login());
         }
 
         protected override void OnStart ()
