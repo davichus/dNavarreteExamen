@@ -5,7 +5,24 @@
     x:Class="dNavarreteExamen.Vistas.Login">
     <ContentPage.Content>
         <StackLayout>
+             <Label Text="Ventana de Repaso" TextColor="red" FontSize="18" HorizontalTextAlignment="Center" ></Label>
 
+            <Image Source="logo_oficial.png"></Image>
+              <Grid>
+                  <Grid.RowDefinitions>
+                      <RowDefinition/>
+                      <RowDefinition/>
+                  </Grid.RowDefinitions>
+                  <Grid.ColumnDefinitions>
+                      <ColumnDefinition/>
+                       <ColumnDefinition/>
+                  </Grid.ColumnDefinitions>
+                  <Label Text="Usuario" FontSize="20" Grid.Row="0" Grid.Column="0"/>
+                  <Entry x:Name="txtUsuario" FontSize="20" Grid.Row="0" Grid.Column="1"/>
+                   <Label Text="Contraseña" FontSize="20" Grid.Row="1" Grid.Column="0"/>
+                  <Entry x:Name="txtContraseña" FontSize="20" IsPassword="True" Grid.Row="1" Grid.Column="1"/>
+              </Grid>
+            <Button x:Name="btnIniciar" Text="Iniciar"  Clicked="btnIniciar_Clicked"/>
 
         </StackLayout>
     </ContentPage.Content>

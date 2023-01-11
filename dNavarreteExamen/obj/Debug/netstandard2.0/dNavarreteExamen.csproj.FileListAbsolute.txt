@@ -1,0 +1,16 @@
+/Users/davidnavarrete/Projects/dNavarreteExamen/dNavarreteExamen/dNavarreteExamen/bin/Debug/netstandard2.0/dNavarreteExamen.deps.json
+/Users/davidnavarrete/Projects/dNavarreteExamen/dNavarreteExamen/dNavarreteExamen/bin/Debug/netstandard2.0/dNavarreteExamen.dll
+/Users/davidnavarrete/Projects/dNavarreteExamen/dNavarreteExamen/dNavarreteExamen/bin/Debug/netstandard2.0/ref/dNavarreteExamen.dll
+/Users/davidnavarrete/Projects/dNavarreteExamen/dNavarreteExamen/dNavarreteExamen/bin/Debug/netstandard2.0/dNavarreteExamen.pdb
+/Users/davidnavarrete/Projects/dNavarreteExamen/dNavarreteExamen/dNavarreteExamen/obj/Debug/netstandard2.0/dNavarreteExamen.csproj.AssemblyReference.cache
+/Users/davidnavarrete/Projects/dNavarreteExamen/dNavarreteExamen/dNavarreteExamen/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/davidnavarrete/Projects/dNavarreteExamen/dNavarreteExamen/dNavarreteExamen/obj/Debug/netstandard2.0/Vistas/Login.xaml.g.cs
+/Users/davidnavarrete/Projects/dNavarreteExamen/dNavarreteExamen/dNavarreteExamen/obj/Debug/netstandard2.0/Vistas/Registro.xaml.g.cs
+/Users/davidnavarrete/Projects/dNavarreteExamen/dNavarreteExamen/dNavarreteExamen/obj/Debug/netstandard2.0/dNavarreteExamen.AssemblyInfoInputs.cache
+/Users/davidnavarrete/Projects/dNavarreteExamen/dNavarreteExamen/dNavarreteExamen/obj/Debug/netstandard2.0/dNavarreteExamen.AssemblyInfo.cs
+/Users/davidnavarrete/Projects/dNavarreteExamen/dNavarreteExamen/dNavarreteExamen/obj/Debug/netstandard2.0/dNavarreteExamen.csproj.CoreCompileInputs.cache
+/Users/davidnavarrete/Projects/dNavarreteExamen/dNavarreteExamen/dNavarreteExamen/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/davidnavarrete/Projects/dNavarreteExamen/dNavarreteExamen/dNavarreteExamen/obj/Debug/netstandard2.0/dNavarreteExamen.dll
+/Users/davidnavarrete/Projects/dNavarreteExamen/dNavarreteExamen/dNavarreteExamen/obj/Debug/netstandard2.0/ref/dNavarreteExamen.dll
+/Users/davidnavarrete/Projects/dNavarreteExamen/dNavarreteExamen/dNavarreteExamen/obj/Debug/netstandard2.0/dNavarreteExamen.pdb
+/Users/davidnavarrete/Projects/dNavarreteExamen/dNavarreteExamen/dNavarreteExamen/obj/Debug/netstandard2.0/Vistas/Resumen.xaml.g.cs
